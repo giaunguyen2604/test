@@ -15,6 +15,7 @@ const AboutPage = () => (
         <div>vutest</div>
         <div>vutest</div>
 
+        <div>Box</div>
       </Link>
     </p>
   </Layout>
