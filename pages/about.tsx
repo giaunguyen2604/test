@@ -9,6 +9,12 @@ const AboutPage = () => (
     <p>
       <Link href="/">
         <a>Go home</a>
+        <div>vutest</div>
+        <div>vutest</div>
+
+        <div>vutest</div>
+        <div>vutest</div>
+
       </Link>
     </p>
   </Layout>
